@@ -1,0 +1,20 @@
+{
+  "name": "node-beta-disassembler",
+  "url": "https://github.com/akashkrishnan/node-beta-disassembler",
+  "version": "0.0.0",
+  "description": "node-beta-disassembler",
+  "license": "MIT",
+  "author": [
+    {
+      "name": "Akash Krishnan",
+      "email": "ak@aakay.net",
+      "url": "http://aakay.net"
+    }
+  ],
+  "dependencies": {
+    "connect": "latest",
+    "express": "latest",
+    "jade": "latest",
+    "socket.io": "latest"
+  }
+}
